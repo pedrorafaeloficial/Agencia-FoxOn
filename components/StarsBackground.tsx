@@ -1,0 +1,1 @@
+// Component removed to use CSS-based animation for better stability
